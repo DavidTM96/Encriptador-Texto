@@ -1,6 +1,6 @@
 # Encriptador de Texto
 
-¿Quieres mantener privada tu información importante y no sabes como hacerlo?, si tu respuesta es "Sí" entonces este proyecto te servirá. Gracias a nuestro encriptador de texto, podrás convertir cualquier mensaje en un texto codificado que solo podrá leer la persona que tenga la clave de desencriptación.
+¿Quieres mantener privada tu información importante y no sabes como hacerlo?, si tu respuesta es "Sí" entonces este proyecto te servirá. Gracias a nuestro encriptador de texto, podrás convertir cualquier mensaje en un texto codificado que solo podrá ser leído por la persona que tenga la clave de desencriptación.
 
 Para usarlo, sigue los pasos a continuación:
 
